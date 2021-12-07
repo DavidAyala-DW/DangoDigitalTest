@@ -1,0 +1,13 @@
+@media (min-width: 1024px) {
+    .max-h-layoutImage{
+        max-height: calc( 100% - 100px );
+    }
+    .top-layoutImage{
+        top: 35px!important;
+    }
+}
+
+@font-face {
+    font-family: Neue Haas Grotesk Display Pro;
+    src: url("/src/fonts/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayThin.ttf");
+}
